@@ -1,0 +1,41 @@
+.relax .content{
+    padding: 1% 10% 5% 10%;
+    background-color: #EEDAAE;
+    border-radius: 2px;
+}
+
+.relax .content .topic{
+    background-color: #EEBC6B;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 5%;
+}
+
+.relax .content .topic h3{
+    margin: 0 0 0 15px;
+}
+
+.relax .content .topic .btn{
+    width: 95%;
+    margin-left: 2.5%;
+    background-color: #EF920D;
+    border: none;
+}
+
+.relax .content .topic .btn:hover{
+    opacity: 0.7;
+}
+
+.relax .content .topic i{
+    color: #EEDAAE;
+}
+
+
+
+.relax .content .topic hr{
+    margin: 0.5rem 0;
+}
+
+.relax .content .topic p{
+    margin: 15px;
+}

@@ -1,0 +1,58 @@
+.comic-list-chap .content{
+    background-color: #EBC4C8;
+    padding: 0 15px;
+}
+
+.comic-list-chap .content .item{
+    padding: 0 1%;
+}
+
+.comic-list-chap .card-title{
+    font-size: 16px;
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    white-space: nowrap;
+    text-align: left;
+    margin: 0;
+    color: black;
+}
+
+.comic-list-chap .card{
+    background-color: #E38396;
+    border: none;
+    margin-top: 10%;
+}
+
+.comic-list-chap .card-body{
+    padding: 10px;
+    text-align: center;
+}
+
+.comic-list-chap .card-text{
+    font-size: 12px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    color: black;
+}
+
+.comic-list-chap .card-body a{
+    width: 100%;
+    border: none;
+    background-color: #EAD6D1;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.comic-list-chap .card-body a:hover{
+    opacity: 0.6;
+}
